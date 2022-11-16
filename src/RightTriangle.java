@@ -1,9 +1,9 @@
-public class RightTrangle extends Shape{
+public class RightTriangle extends Shape{
     private int a;
     private int b;
     private int c;
 
-    public RightTrangle(String name, int a, int b, int c) {
+    public RightTriangle(String name, int a, int b, int c) {
         super(name);
         this.a = a;
         this.b = b;

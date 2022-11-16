@@ -1,10 +1,10 @@
-public class Trangle extends Shape {
+public class Triangle extends Shape {
     private int a;
     private int b;
     private int c;
 
 
-    public Trangle(String name, int a, int b, int c) {
+    public Triangle(String name, int a, int b, int c) {
         super(name);
         this.a = a;
         this.b = b;
